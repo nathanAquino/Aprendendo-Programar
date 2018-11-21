@@ -1,7 +1,7 @@
 # Projeto-Teste
-Uma descrição basica do projeto;
+Uma descriÃ§Ã£o basica do projeto;
 Ola eu sou nathan.
 
-#Outra tag bonitinha
-##Olha, mais uma :D
+# O utra tag bonitinha
+## Olha, mais uma :D
 oi gustavo;
