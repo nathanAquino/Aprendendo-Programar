@@ -1,0 +1,12 @@
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\1-Primeiro Projeto\bin\Debug\netcoreapp3.1\1-Primeiro Projeto.exe
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\1-Primeiro Projeto\bin\Debug\netcoreapp3.1\1-Primeiro Projeto.deps.json
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\1-Primeiro Projeto\bin\Debug\netcoreapp3.1\1-Primeiro Projeto.runtimeconfig.json
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\1-Primeiro Projeto\bin\Debug\netcoreapp3.1\1-Primeiro Projeto.runtimeconfig.dev.json
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\1-Primeiro Projeto\bin\Debug\netcoreapp3.1\1-Primeiro Projeto.dll
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\1-Primeiro Projeto\bin\Debug\netcoreapp3.1\1-Primeiro Projeto.pdb
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\1-Primeiro Projeto\obj\Debug\netcoreapp3.1\1-Primeiro Projeto.AssemblyInfoInputs.cache
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\1-Primeiro Projeto\obj\Debug\netcoreapp3.1\1-Primeiro Projeto.AssemblyInfo.cs
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\1-Primeiro Projeto\obj\Debug\netcoreapp3.1\1-Primeiro Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\1-Primeiro Projeto\obj\Debug\netcoreapp3.1\1-Primeiro Projeto.dll
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\1-Primeiro Projeto\obj\Debug\netcoreapp3.1\1-Primeiro Projeto.pdb
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\1-Primeiro Projeto\obj\Debug\netcoreapp3.1\1-Primeiro Projeto.genruntimeconfig.cache
