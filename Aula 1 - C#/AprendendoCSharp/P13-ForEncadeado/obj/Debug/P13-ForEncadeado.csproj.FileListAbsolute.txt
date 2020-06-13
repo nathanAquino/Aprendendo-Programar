@@ -1,0 +1,6 @@
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\P13-ForEncadeado\bin\Debug\P13-ForEncadeado.exe.config
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\P13-ForEncadeado\bin\Debug\P13-ForEncadeado.exe
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\P13-ForEncadeado\bin\Debug\P13-ForEncadeado.pdb
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\P13-ForEncadeado\obj\Debug\P13-ForEncadeado.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\P13-ForEncadeado\obj\Debug\P13-ForEncadeado.exe
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\P13-ForEncadeado\obj\Debug\P13-ForEncadeado.pdb

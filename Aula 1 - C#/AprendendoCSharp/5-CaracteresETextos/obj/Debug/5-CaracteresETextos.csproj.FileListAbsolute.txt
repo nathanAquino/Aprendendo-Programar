@@ -1,0 +1,7 @@
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe.config
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.pdb
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.exe
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.pdb
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\6-AtriuicoesDeVariaveis\bin\Debug\6-AtriuicoesDeVariaveis.exe.config
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\6-AtriuicoesDeVariaveis\bin\Debug\6-AtriuicoesDeVariaveis.exe
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\6-AtriuicoesDeVariaveis\bin\Debug\6-AtriuicoesDeVariaveis.pdb
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\6-AtriuicoesDeVariaveis\obj\Debug\6-AtriuicoesDeVariaveis.csprojAssemblyReference.cache
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\6-AtriuicoesDeVariaveis\obj\Debug\6-AtriuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\6-AtriuicoesDeVariaveis\obj\Debug\6-AtriuicoesDeVariaveis.exe
+C:\Users\Nathan Aquino\Desktop\programação\Aprendendo-Programar\Aula 1 - C#\AprendendoCSharp\6-AtriuicoesDeVariaveis\obj\Debug\6-AtriuicoesDeVariaveis.pdb
